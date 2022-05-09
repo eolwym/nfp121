@@ -45,8 +45,7 @@ Hashmap -> clé -> valeur
 
 # 4.1
 Il nous faut un jframe
-Ce jframe contiendra 3 jpanel
-le premier jpanel sera en 
+Ce jframe contiendra 3 jpanel pour les 3 zones -> bouton creuse, pleine - les arguments - le résultat
 
 # 4.2
 Il faut rajouter un actionListener sur le bouton pour réagir aux évènements sur ce bouton.
@@ -70,3 +69,5 @@ On pourrait rajouter une méthode pour récupérer toute les options dans la cla
     <!ATTLIST argument
         acces CDATA #REQUIRED
         nb CDATA #IMPLIED>
+
+# 6.2
